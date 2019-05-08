@@ -3,6 +3,7 @@ Tap for OpenBook Desktop (https://gitlab.com/999eagle/openbook-desktop) for macO
 Thanks to @999eagle for providing this app!
 
 You can use it with
+
 `brew tap stranljip/openbook-desktop`
 
 `brew update`
