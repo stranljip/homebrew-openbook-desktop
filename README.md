@@ -4,5 +4,7 @@ Thanks to @999eagle for providing this app!
 
 You can use it with
 `brew tap stranljip/openbook-desktop`
+
 `brew update`
+
 `brew cask install openbookdesktop`
