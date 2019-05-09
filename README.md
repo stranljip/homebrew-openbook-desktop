@@ -9,3 +9,7 @@ You can use it with
 `brew update`
 
 `brew cask install openbookdesktop`
+
+after that for new versions you only have to do
+
+`brew cask upgrade`
