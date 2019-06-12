@@ -1,14 +1,14 @@
-# homebrew-openbook-desktop
-Tap for OpenBook Desktop (https://gitlab.com/999eagle/openbook-desktop) for macOS with Homebrew
+# homebrew-openspace-desktop
+Tap for Openspace Desktop (https://gitlab.com/999eagle/openspace-desktop) for macOS with Homebrew
 Thanks to @999eagle for providing this app!
 
 You can use it with
 
-`brew tap stranljip/openbook-desktop`
+`brew tap stranljip/openspace-desktop`
 
 `brew update`
 
-`brew cask install openbookdesktop`
+`brew cask install openspacedesktop`
 
 after that for new versions you only have to do
 
