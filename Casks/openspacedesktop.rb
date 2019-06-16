@@ -4,7 +4,7 @@ cask 'openspacedesktop' do
 
   url "https://gitlab.com/999eagle/openspace-desktop/-/jobs/artifacts/#{version}/download?job=release-macos"
   name 'openspace-desktop'
-  homepage 'https://gitlab.com/999eagle/openbook-desktop'
+  homepage 'https://gitlab.com/999eagle/openspace-desktop'
 
   app 'OpenspaceDesktop.app'
 end
