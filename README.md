@@ -1,14 +1,14 @@
-# homebrew-openspace-desktop
-Tap for Openspace Desktop (https://gitlab.com/999eagle/openspace-desktop) for macOS with Homebrew
+# homebrew-okuna-desktop
+Tap for Okuna Desktop (https://gitlab.com/999eagle/okuna-desktop) for macOS with Homebrew
 Thanks to @999eagle for providing this app!
 
 You can use it with
 
-`brew tap stranljip/openspace-desktop`
+`brew tap stranljip/okuna-desktop`
 
 `brew update`
 
-`brew cask install openspacedesktop`
+`brew cask install okuna-desktop`
 
 after that for new versions you only have to do
 
