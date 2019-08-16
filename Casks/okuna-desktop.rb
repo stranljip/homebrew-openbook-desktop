@@ -1,6 +1,6 @@
 cask 'okuna-desktop' do
-  version '0.0.50-1'
-  sha256 '94e206298df1cbd36fbc146378574e995598a69d8596fd6475a577b32ad9522a'
+  version '0.0.51'
+  sha256 '0534def77ee93ddd2cf5746d161fd51a7b6d2a7f2e583469d053dd1a3dd6951d'
 
   url "https://gitlab.com/999eagle/okuna-desktop/-/jobs/artifacts/#{version}/download?job=release-macos"
   name 'okuna-desktop'
